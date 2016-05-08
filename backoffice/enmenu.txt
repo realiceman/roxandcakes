@@ -1,0 +1,18 @@
+﻿<h1>UK/US pastries</h1>
+<p>Lorem Ipsum dolor<span>8.55$</span></p>
+<p>Lorem Ipsum dolor<span>6.50$</span></p>
+<p>Lorem Ipsum dolor<span>5.90$</span></p>
+<p>Lorem Ipsum dolor<span>8.88$</span></p>
+<p>Lorem Ipsum dolor<span>10.80$</span></p>
+<h1>French pastries</h1>
+<p>Lorem Ipsum dolor<span>8.99$</span></p>
+<p>Lorem Ipsum dolor<span>6.50$</span></p>
+<p>Lorem Ipsum dolor<span>5.90$</span></p>
+<p>Lorem Ipsum dolor<span>8.60$</span></p>
+<p>Lorem Ipsum dolor<span>10.80$</span></p>
+<h1>International desserts</h1>
+<p>Lorem Ipsum dolor<span>8.99$</span></p>
+<p>Lorem Ipsum dolor<span>6.50$</span></p>
+<p>Lorem Ipsum dolor<span>5.90$</span></p>
+<p>Lorem Ipsum dolor<span>8.60$</span></p>
+<p>Lorem Ipsum dolor<span>10.80$</span></p>

@@ -1,0 +1,4 @@
+AuthName "Connexion au back office"
+AuthType Basic
+AuthUserFile "C:\wamp\www\test\phpobjet\roxandcakes\backoffice\.htpasswd"
+Require valid-user

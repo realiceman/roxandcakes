@@ -1,0 +1,46 @@
+#mainwrapper{width: auto; height: auto;}
+
+#logo {
+      z-index:1;box-shadow: 0 0 0px #000;position:absolute; top:20px; left:-500px; width:400px; height:400px; background:url(../layouts/logo.png) top left no-repeat;
+     
+	  }
+
+#flags{
+    width:70px;
+    margin-left: 90%;
+	position:absolute;
+}
+#content{ width:845px; margin:40px auto 40px 25%; padding:10px 80px;float:left; }
+
+.clearfix{ display: block; height: 0; clear: both; visibility: hidden; }
+
+.details{ margin:15px 20px; }	
+   h4{ font:300 20px 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height:140%; letter-spacing:0.15em; color:#fff; text-shadow:1px 1px 0 rgb(0,0,0); }
+    p{ font:300 16px 'Lucida Grande', Tahoma, Verdana, sans-serif; color:#aaa; text-shadow:1px 1px 0 rgb(0,0,0);}
+    a{ text-decoration:none; }
+#strong{float:left;margin-left:25px; margin-bottom:15px;}
+
+.ico-reseau {position:relative; right:-700px; width:130px; display:block; height:130px; text-indent:-7000px; float: left; }
+.ico-reseau2 {position:relative; right:-700px; width:130px; display:block; height:130px; text-indent:-7000px; float: left; }
+.ico-reseau3 {position:relative; right:-700px; width:90px; display:block; height:90px; text-indent:-7000px; float: left; }
+
+#facebook { background:url(../layouts/facebook.png) bottom left no-repeat; bottom:0px; } 
+#facebook:hover {background:url(../layouts/facebook_hover.png) bottom left no-repeat; bottom:0px;}
+
+#insta {background:url(../layouts/insta.png) top left no-repeat; bottom:10px;  }
+#insta:hover {background:url(../layouts/insta_hover.png) top left no-repeat;  }
+
+#mail {background:url(../layouts/email_hover.png) top left no-repeat;  }
+#mail:hover {background:url(../layouts/email.png) top left no-repeat;  }
+
+h1{
+    font-family:Cooper Std Black;
+    
+    color:#62483d;
+    font-weight: bolder;
+    text-align:right;
+    margin-right: 10px;
+}
+
+
+

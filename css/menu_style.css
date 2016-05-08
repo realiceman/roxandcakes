@@ -1,0 +1,23 @@
+body{background-image:url('img/bg-grid.png');}
+#content{width:750px;margin:auto;padding-top:30px;font:12px Arial;margin-left:30%;font-weight:bold;}
+.a{display:block;color:#7a7d8f;}
+.a:hover{color:#83e6ff;}
+
+h1{background:#1c1c24;padding:15px;font-weight:normal;font-size:15px;color:#efefef;}
+p{padding-bottom:3px;border-bottom:1px dashed #999;}
+p span{float:right;margin:0;color:#999;font-weight:bold;}
+span{margin-left:15px;color:#ff4917;}
+
+form{background:#f4bfa6;}
+label{margin-left:15px;}
+select{margin:5px 0 15px 15px;}
+input{margin:5px 15px 0 15px;}
+input[type=text]{width:220px;margin-bottom:5px;padding-left:3px;color:#999;}
+input.small{width:30px;padding:0;text-align:center;}
+textarea{width:710px;height:300px;max-width:720px;margin:5px 15px 5px 15px;padding:3px;color:#999;}
+input[type=submit]{background:#ff4917;margin:10px 0 15px 15px;padding:7px;border:none;border-radius:4px;color:#fff;text-shadow:1px 1px 1px #9e2504;}
+input[type=submit]:hover{background:#d7490e;}
+table{background:#22252d;margin:auto;border-collapse:collapse;border:1px solid #1c1c24;font-size:12px;}
+th,td{padding:10px;border:1px solid #1c1c24;text-align:center;}	
+#logo { z-index:1;box-shadow: 0 0 0px #000;position:relative; top:20px; left:-500px; width:400px; height:400px; background:url(layouts/logo.png) top left no-repeat;}
+#flags{ width:70px;margin-left: 90%;}
